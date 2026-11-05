@@ -1,0 +1,8 @@
+{
+  "name": "Zenvor CropTrace",
+  "description": "Mobile-first crop disease and pest identification assistant with multi-language field inspections, instant AI diagnoses, and case tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
